@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "701942531829",
+    "project_id": "video-call-7a2ac",
+    "storage_bucket": "video-call-7a2ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701942531829:android:433cba62bba60cea2ce7bc",
+        "android_client_info": {
+          "package_name": "com.djohnsoftware.adsmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701942531829-lg4bg3t2bp90o5ff1b3t3oefqef3fcau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.random.video.calling.free.globalvideocall.livevideocall",
+            "certificate_hash": "d8fc065d7d92b6d1d6e0e7a8bde8a3ce4133f452"
+          }
+        },
+        {
+          "client_id": "701942531829-o0nvsveqhs29g44jhfccs2ehpab8t2lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAASUvDaqdLVD7YB6W1LwCPaJkDU-nTBe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701942531829-o0nvsveqhs29g44jhfccs2ehpab8t2lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

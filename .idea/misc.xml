@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/drawable/ad_background.xml" value="0.36512820512820515" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/drawable/bg_back.xml" value="0.36512820512820515" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/drawable/bg_border.xml" value="0.36512820512820515" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/drawable/ic_adv.xml" value="0.26944444444444443" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/drawable/txt_ad.xml" value="0.36512820512820515" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/activity_qureka.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/ad_load_dialog.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/ad_medium.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/ad_regular_layout.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/adbignative_layout.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/applovin_native_banner.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/fb_native_ad_layout.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/fb_native_banner_layout.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/fb_nativebanr_ad_layout.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/gif_layout1.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/gifbanner_layout.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/native_ad_layout_1.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/native_ad_list_item.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/native_ad_mopub.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/adsmanager/src/main/res/layout/progres_dialog.xml" value="0.3546875" />
+        <entry key="..\:/Arjan/AdsManager/AdsManager/app/src/main/res/layout/activity_second.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

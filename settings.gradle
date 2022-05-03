@@ -1,0 +1,21 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        maven {
+            url 'https://jitpack.io'
+        }
+        maven {
+            url 'https://artifact.bytedance.com/repository/pangle'
+        }
+        mavenCentral()
+        maven {
+            url 'https://startappdev.bintray.com/maven'
+        }
+    }
+}
+rootProject.name = "Ads Manager"
+include ':app'
+include ':adsmanager'
